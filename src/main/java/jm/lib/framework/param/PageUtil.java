@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletRequest;
 import java.util.*;
 
 /**
- * Created by jiming.liu on 2015/5/8.
+ * Created by jiming.liu
  * 分页相关的帮助方法，要注意的一点是，我们的 page 都是以 1 为 base 的，spring 的 page base 都是 0
  */
 public class PageUtil {

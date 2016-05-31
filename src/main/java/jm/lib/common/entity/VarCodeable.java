@@ -3,7 +3,7 @@ package jm.lib.common.entity;
 import java.util.Comparator;
 
 /**
- * Created by jiming.liu on 2012/11/24.
+ * Created by jiming.liu
  */
 public interface VarCodeable {
     public static final Comparator<VarCodeable> COMPARATOR = new Comparator<VarCodeable>() {

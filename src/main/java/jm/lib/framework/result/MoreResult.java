@@ -5,7 +5,7 @@ import lombok.Data;
 import java.io.Serializable;
 
 /**
- * Created by jiming.liu on 2015/4/30.
+ * Created by jiming.liu
  */
 @Data
 public class MoreResult extends Result implements MoreResultable, Serializable {

@@ -3,7 +3,7 @@ package jm.lib.framework.result;
 import java.io.Serializable;
 
 /**
- * Created by jiming.liu on 2015/3/3.
+ * Created by jiming.liu
  */
 public class DataResult<T> extends Result implements Serializable {
     private T data;

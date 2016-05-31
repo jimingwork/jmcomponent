@@ -6,7 +6,7 @@ import java.util.Comparator;
  *
  * using Idable
  *
- * Created by jiming.liu on 2016/4/13.
+ * Created by jiming.liu
  */
 public interface LongIdable extends Idable<Long> {
     public static final Comparator<LongIdable> COMPARATOR = new Comparator<LongIdable>() {

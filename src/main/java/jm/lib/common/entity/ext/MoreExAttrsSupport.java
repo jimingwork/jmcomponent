@@ -14,7 +14,7 @@ import java.util.Map;
 import java.util.Set;
 
 /**
- * Created by jiming.liu on 2016/1/15.
+ * Created by jiming.liu
  */
 public interface MoreExAttrsSupport extends ExAttrsSupport {
 

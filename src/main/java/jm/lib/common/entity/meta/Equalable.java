@@ -16,7 +16,7 @@ public interface Equalable<T> {
      *
      * @param o
      * @param properties
-     * @param include
+     * @param include, include or exclude
      * @return
      */
     boolean equals(T o, Collection<String> properties, boolean include);

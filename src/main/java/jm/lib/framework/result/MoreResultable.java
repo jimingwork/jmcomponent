@@ -3,7 +3,7 @@ package jm.lib.framework.result;
 import jm.lib.common.entity.Codeable;
 
 /**
- * Created by jiming.liu on 2015/5/5.
+ * Created by jiming.liu
  * 用于详细结果的接口
  */
 public interface MoreResultable extends Codeable<Integer> {

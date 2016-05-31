@@ -3,7 +3,7 @@ package jm.lib.framework.context;
 import lombok.Data;
 
 /**
- * Created by jiming.liu on 2016/4/15.
+ * Created by jiming.liu
  */
 @Data
 public class RequestContext {

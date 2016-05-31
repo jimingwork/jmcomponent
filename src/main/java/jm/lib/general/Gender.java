@@ -3,7 +3,7 @@ package jm.lib.general;
 import jm.lib.common.entity.VarCodeable;
 
 /**
- * Created by jiming.liu on 2015/11/10.
+ * Created by jiming.liu
  */
 public enum Gender implements VarCodeable {
     MALE("Male", "男", "M")

@@ -1,7 +1,7 @@
 package jm.lib.framework.exception;
 
 /**
- * Created by jiming.liu on 2016/3/9.
+ * Created by jiming.liu
  * When exception happens, some infomation should put in log for debug.
  * And some others need to display to customer, which need to be human friendly.
  */

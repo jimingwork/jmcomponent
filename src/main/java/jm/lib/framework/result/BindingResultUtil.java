@@ -8,7 +8,7 @@ import org.springframework.validation.ObjectError;
 import java.util.Map;
 
 /**
- * Created by jiming.liu on 2015/4/24.
+ * Created by jiming.liu
  */
 public class BindingResultUtil {
 

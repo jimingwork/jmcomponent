@@ -5,9 +5,11 @@
 
 package jm.lib.common.entity.impl;
 
+import com.google.common.annotations.Beta;
 import jm.lib.common.entity.meta.PojoInfo;
 
 
+@Beta
 public abstract class AbstractPojoInfo<T> implements PojoInfo<T> {
 
     /**

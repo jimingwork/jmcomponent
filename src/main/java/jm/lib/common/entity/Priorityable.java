@@ -3,7 +3,7 @@ package jm.lib.common.entity;
 import java.util.Comparator;
 
 /**
- * Created by jiming.liu on 2015/12/8.
+ * Created by jiming.liu
  */
 public interface Priorityable {
     public static final Comparator<Priorityable> COMPARATOR = new Comparator<Priorityable>() {

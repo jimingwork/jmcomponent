@@ -1,7 +1,7 @@
 package jm.lib.framework.context;
 
 /**
- * Created by jiming.liu on 2016/4/15.
+ * Created by jiming.liu
  */
 public class CacheSetting {
     /**

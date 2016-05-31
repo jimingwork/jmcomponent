@@ -4,7 +4,7 @@ import java.io.Serializable;
 import java.util.Comparator;
 
 /**
- * Created by jiming.liu on 2012/11/24.
+ * Created by jiming.liu
  */
 public interface Codeable<T extends Serializable> {
     public static final Comparator<Codeable> COMPARATOR = new Comparator<Codeable>() {

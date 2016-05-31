@@ -8,7 +8,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Created by jiming.liu on 2015/3/2.
+ * Created by jiming.liu
  */
 @Getter @Setter
 public class Result implements Serializable {

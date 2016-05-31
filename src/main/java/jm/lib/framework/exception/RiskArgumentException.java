@@ -3,7 +3,7 @@ package jm.lib.framework.exception;
 import lombok.Data;
 
 /**
- * Created by jiming.liu on 2016/4/21.
+ * Created by jiming.liu
  */
 @Data
 public class RiskArgumentException extends IllegalArgumentException implements HumanException {

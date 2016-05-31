@@ -3,7 +3,7 @@ package jm.lib.util;
 import org.apache.commons.lang3.time.FastDateFormat;
 
 /**
- * Created by jiming.liu on 2015/11/11.
+ * Created by jiming.liu
  * Methods related with format/parse
  */
 public class DateFormatGroup {

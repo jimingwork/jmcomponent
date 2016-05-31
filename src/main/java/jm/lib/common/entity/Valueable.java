@@ -1,7 +1,7 @@
 package jm.lib.common.entity;
 
 /**
- * Created by jiming.liu on 2015/12/10.
+ * Created by jiming.liu
  */
 public interface Valueable<T> {
     T getValue();

@@ -117,6 +117,14 @@
                     <artifactId>logback-classic</artifactId>
                 </dependency>-->
 
+        <!-- data structure - begin -->
+
+        <dependency>
+            <groupId>com.google.guava</groupId>
+            <artifactId>guava</artifactId>
+        </dependency>
+        <!-- data structure - end -->
+
 
         <!-- Apache common -->
         <dependency>

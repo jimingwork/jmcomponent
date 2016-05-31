@@ -9,7 +9,7 @@ import java.util.Map;
 import java.util.Set;
 
 /**
- * Created by jiming.liu on 2016/1/17.
+ * Created by jiming.liu
  */
 public interface ConfigAttrsSupport {
     String attr(String key, String default_value);

@@ -9,6 +9,7 @@ import com.fasterxml.jackson.databind.ser.impl.SimpleFilterProvider;
 import com.fasterxml.jackson.databind.util.JSONPObject;
 import com.fasterxml.jackson.datatype.guava.GuavaModule;
 import com.fasterxml.jackson.module.afterburner.AfterburnerModule;
+import com.google.common.annotations.Beta;
 import com.google.common.base.Strings;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -16,8 +17,9 @@ import org.slf4j.LoggerFactory;
 import java.io.IOException;
 
 /**
- * Created by jiming.liu on 2016/1/18.
+ * Created by jiming.liu
  */
+@Beta
 public class JsonUtil {
 
 

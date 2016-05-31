@@ -10,7 +10,7 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * Created by jiming.liu on 2015/2/26.
+ * Created by jiming.liu
  */
 public class PageResult<T> extends Result implements Serializable {
 

@@ -1,7 +1,7 @@
 package jm.lib.common.entity;
 
 /**
- * Created by jiming.liu on 2015/12/8.
+ * Created by jiming.liu
  */
 public interface DisplayNameable {
 

@@ -5,7 +5,7 @@ import jm.lib.common.entity.UpdatedTimeable;
 import java.sql.Timestamp;
 
 /**
- * Created by jiming.liu on 2015/12/10.
+ * Created by jiming.liu
  */
 public interface SetUpdatedTimeable extends UpdatedTimeable {
     void setUpdatedTime(Timestamp timestamp);

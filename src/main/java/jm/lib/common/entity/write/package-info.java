@@ -1,5 +1,5 @@
 /**
- * Created by jiming.liu on 2015/12/9.
+ * Created by jiming.liu
  *
  */
 package jm.lib.common.entity.write;

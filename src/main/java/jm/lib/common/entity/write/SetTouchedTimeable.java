@@ -5,7 +5,7 @@ import jm.lib.common.entity.TouchedTimeable;
 import java.sql.Timestamp;
 
 /**
- * Created by jiming.liu on 2015/12/10.
+ * Created by jiming.liu
  */
 public interface SetTouchedTimeable extends TouchedTimeable {
     void setTouchedTime(Timestamp timestamp);

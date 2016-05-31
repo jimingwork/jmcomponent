@@ -26,7 +26,7 @@ import java.util.Random;
 import java.util.Set;
 
 /**
- * Created by jiming.liu on 2016/4/8.
+ * Created by jiming.liu
  */
 @ManagedResource(objectName = "global.Contexts", description = "", value = "")
 public final class Contexts implements InitializingBean, ApplicationContextAware, ApplicationEventPublisherAware {

@@ -3,7 +3,7 @@ package jm.lib.common.entity.meta;
 import com.google.common.annotations.Beta;
 
 /**
- * Created by jiming.liu on 2015/12/8.
+ * Created by jiming.liu
  */
 @Beta
 public interface Copyable<T> {
